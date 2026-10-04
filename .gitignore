@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+dataset/
+input/
+output/
+runs/
+weights/
+*.pt
+*.engine
+*.onnx
+.DS_Store
